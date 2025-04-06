@@ -55,4 +55,4 @@ google scholar 网页结构和代码密切相关，代码就是读取了网页�
 ## 作者
 
 - 原作者：Yuyuan Wang
-- 整体：Zhouyue Zhu
+- 整理：Zhouyue Zhu
