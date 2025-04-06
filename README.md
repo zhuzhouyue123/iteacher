@@ -22,7 +22,6 @@ google scholar 网页结构和代码密切相关，代码就是读取了网页�
 ```json
 {
 "Robert Langer": ['Massachusetts Institute of Technology', [0, 'drug delivery', 'tissue engineering', 'biomaterials', 'nanotechnology', 'chemistry'], 445798],
-......
 }
 ```
 
