@@ -46,11 +46,11 @@ google scholar 网页结构和代码密切相关，代码就是读取了网页�
 
 ## 其他文档
 
--  [AIChatRecords.md](docs\AIChatRecords.md) AI聊天记录（代码部分缩进混乱）
--  [Bugs.md](docs\Bugs.md) 目前遇到的问题
--  [Design.md](docs\Design.md) 设计思路等
--  [QS60.md](docs\QS60.md) QS前60排名
--  [StrctureOfGoogleScholar.md](docs\StrctureOfGoogleScholar.md) 谷歌学术的HTML解析指南
+-  [AIChatRecords.md](docs/AIChatRecords.md) AI聊天记录（代码部分缩进混乱）
+-  [Bugs.md](docs/Bugs.md) 目前遇到的问题
+-  [Design.md](docs/Design.md) 设计思路等
+-  [QS60.md](docs/QS60.md) QS前60排名
+-  [StrctureOfGoogleScholar.md](docs/StrctureOfGoogleScholar.md) 谷歌学术的HTML解析指南
 
 ## 作者
 
