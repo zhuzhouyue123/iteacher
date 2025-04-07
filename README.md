@@ -52,6 +52,9 @@ google scholar 网页结构和代码密切相关，代码就是读取了网页�
 -  [QS60.md](docs/QS60.md) QS前60排名
 -  [StrctureOfGoogleScholar.md](docs/StrctureOfGoogleScholar.md) 谷歌学术的HTML解析指南
 
+## 目录说明
+`./data`：存放了已经爬好的数据
+
 ## 作者
 
 - 原作者：Yuyuan Wang
